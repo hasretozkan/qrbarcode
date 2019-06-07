@@ -122,13 +122,6 @@ export default class Barcode extends React.Component {
         </View>
       }</View>
     }
-
-    <AdMobBanner
-      bannerSize="smartBannerPortrait"
-      adUnitID="ca-app-pub-2779101416790896/1774821414" // Test ID, Replace with your-admob-unit-id
-      testDeviceID="EMULATOR"
-      onDidFailToReceiveAdWithError={this.bannerError}
-    />
   </View>
 );
 }
