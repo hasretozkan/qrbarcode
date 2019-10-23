@@ -1,4 +1,4 @@
-**QR Barcode Application (English) **
+**QR Barcode Application (English)**
 =====================
 
 **Content**
